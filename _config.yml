@@ -17,6 +17,10 @@ name: 'Grant Leadbetter'
 author: 'Grant Leadbetter'
 author_image: "/assets/images/author.jpg"
 
+# fixed logo
+fixed_logo: "/assets/images/df_logo.jpg"
+
+
 paginate:	5
 
 url: "http://grantlyk.github.io" # the base hostname & protocol for your site
