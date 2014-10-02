@@ -12,7 +12,7 @@ That being said, before a group of trolls dive down my throat with their ever im
 
 It's common knowledge that in the development world you'll never be done improving your skill set, but when is it safe to say you have the right skills for the job? 
 
-I haven't figured out the answer to that question yet but when I do i'll make sure to inform you all, in the meantime i'll give you a list of tasks that you can start working through to help ensure you have the skills needed to get a development job, extracted from the wonderful blog of [Chris Oliver][http://excid3.com/blog/10-ideas-for-beginner-web-developers/]
+I haven't figured out the answer to that question yet but when I do i'll make sure to inform you all, in the meantime i'll give you a list of tasks that you can start working through to help ensure you have the skills needed to get a development job, extracted from the wonderful blog of [Chris Oliver][Oliver]
 
 1. Simple blog with comments
 2. Pastebin that has short urls (Google some short url algorithms)
@@ -24,3 +24,5 @@ I haven't figured out the answer to that question yet but when I do i'll make su
 8. Build your own JSON and XML API onto #3 or any of the other sites
 9. Now take that API you just built and create a Ruby gem out of it using ActiveResource
 10. Certainly by now you should have come up with some ideas of your own that you’d like to build. If not, go build an expense tracker with pretty graphs and export to CSV or Freshbooks functionality.
+
+[Oliver]: http://excid3.com/blog/10-ideas-for-beginner-web-developers/
