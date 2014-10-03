@@ -3,7 +3,7 @@ layout: post
 title:  "Are You Worth It?"
 date:   2014-10-01 20:01:40
 categories: general
-tags: featured
+
 image: /assets/article_images/2014-10-01-are-you-worth-it/article1.jpg
 ---
 The current challenge i'm having with software is that it's hard to know when you're qualified, i've recently made the shift from being a software university student to frantically trying to get a job in software and it's difficult.
