@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "What I Learned From My Gem"
+date:   2015-04-04 14:56:00
+tags: featured
+image: /assets/article_images/2014-09-29-welcome-to-my-blog/article1.jpg
+published: true
+---
+
 # What I Learned From My Gem
 
 ## Introducing Sink Utility
